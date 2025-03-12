@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("anchicoque-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3320d383e11ec3f7043b4a12a65a78b0c3aa993")]
 [assembly: System.Reflection.AssemblyProductAttribute("anchicoque-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("anchicoque-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
